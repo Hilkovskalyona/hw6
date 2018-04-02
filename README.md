@@ -8,3 +8,9 @@
 
 # ЧАСТЬ 2.
 ![](https://github.com/Hilkovskalyona/hw6/blob/master/modifiers.png)
+
+![](https://github.com/Hilkovskalyona/hw6/blob/master/forbid:prohibit.png)
+
+Со словами export, use, sale могут употребляться оба глагола.
+Со словами usury, alcohol, marriage - только forbid.
+Со словами  substanse, possession, parking - только prohibit.
