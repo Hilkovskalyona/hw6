@@ -14,3 +14,10 @@
 Со словами export, use, sale могут употребляться оба глагола.
 Со словами usury, alcohol, marriage - только forbid.
 Со словами  substanse, possession, parking - только prohibit.
+
+# Бонусное задание
+
+![](https://github.com/Hilkovskalyona/hw6/blob/master/arcaeology%20Sketch.png)
+![](https://github.com/Hilkovskalyona/hw6/blob/master/archaeology%20Ngram.png)
+
+И в sketch engine, и в Google Ngram употребление слова archaeology значительно возросло за последние годы 20 века. Тем не менее, согласно данным обоих ресурсов, пика употребление достигало в разные годы: в 1988 (241.7 relative text type frequency) согласно sketch engine и в 1987 согласно Google Ngram (0,0003898050%). Можем предположить, что были использованы разные источники для составления статистики, оттого различия в данных.
